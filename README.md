@@ -6,7 +6,7 @@ An Excel-based retail sales analytics project focused on analysing product perfo
 
 ## Dashboard Preview
 
-![Retail Sales Dashboard](dashboard.png)
+![Retail Sales Dashboard](KPI%27s.png)
 
 ## Tools & Skills
 
